@@ -43,6 +43,7 @@
     <form>
         <h1>homepage</h1>
         <input type="search" name="search" value="<?php echo $search ?>">
+        <a class="address_button" href="create_post.php">Tạo bài viết</a>
     </form>
 
 
